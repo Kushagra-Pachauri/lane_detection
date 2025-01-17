@@ -75,7 +75,7 @@ We welcome contributions to improve this project! Whether it’s fixing bugs, ad
 1. Fork the repo.
 2. Create a new branch: `git checkout -b feature-name`.
 3. Make your changes.
-4. Commit your changes: `git commit -am 'Add feature-name'`.
+4. Commit your changes: `git commit -m 'Add feature-name'`.
 5. Push to the branch: `git push origin feature-name`.
 6. Open a pull request.
 
