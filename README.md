@@ -30,7 +30,7 @@ Follow these steps to set up and run the project locally:
 
 ### 1. Clone the Repository  
 ```bash  
-git clone https://github.com/Kushagra-Pachauri/lane_detection.git
+git clone https://github.com/Kushagra-Pachauri/lane-detection-marking.git 
 cd lane-detection-marking 
 ``` 
 
